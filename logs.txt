@@ -1,0 +1,41 @@
+commit 611380f637daf4e388bc0f77dca0ce662720dbcf
+Author: Anoop Kumar <anoopkumar@Anoops-MacBook-Air.local>
+Date:   Tue Jul 30 15:45:36 2024 +0530
+
+    Branch B: adding text-C file
+
+commit 8a3ebb5faea73845d7b868cfc3b41fdafe4611ac
+Author: Anoop Kumar <anoopkumar@Anoops-MacBook-Air.local>
+Date:   Tue Jul 30 15:44:44 2024 +0530
+
+    Branch B: adding text-b file
+
+commit 573450147c7df0083c4e12967c0fe794847baee7
+Author: Anoop Kumar <anoopkumar@Anoops-MacBook-Air.local>
+Date:   Tue Jul 30 15:52:48 2024 +0530
+
+    Branch C: adding text-F file
+
+commit df2196ec085ef897701c3af6c17259985afc41e0
+Author: Anoop Kumar <anoopkumar@Anoops-MacBook-Air.local>
+Date:   Tue Jul 30 15:51:25 2024 +0530
+
+    Branch C: adding text-E file
+
+commit 9bfbdc2f54a73d4c6d90c0e28df924975904cda9
+Author: Anoop Kumar <anoopkumar@Anoops-MacBook-Air.local>
+Date:   Tue Jul 30 15:46:41 2024 +0530
+
+    Branch C: adding text-D file
+
+commit 24f081d5a7967717099467b83ac73cff2ecd5a79
+Author: Anoop Kumar <anoopkumar@Anoops-MacBook-Air.local>
+Date:   Tue Jul 30 15:41:55 2024 +0530
+
+    main: adding text-A file
+
+commit 6b2593ece52029b253bc5dc663be97121414b31f
+Author: Anoop Kumar <anoopkumar@Anoops-MacBook-Air.local>
+Date:   Tue Jul 30 15:15:47 2024 +0530
+
+    first commit
